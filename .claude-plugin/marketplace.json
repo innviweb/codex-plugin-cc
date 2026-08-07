@@ -1,10 +1,10 @@
 {
-  "name": "openai-codex",
+  "name": "innviweb-codex",
   "owner": {
-    "name": "OpenAI"
+    "name": "innviweb"
   },
   "metadata": {
-    "description": "Codex plugins to use in Claude Code for delegation and code review.",
+    "description": "Codex plugins to use in Claude Code for delegation and code review. Fork of openai/codex-plugin-cc that honors sandbox_workspace_write.network_access from ~/.codex/config.toml.",
     "version": "1.0.6"
   },
   "plugins": [
